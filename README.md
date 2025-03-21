@@ -5,6 +5,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashishsharma-12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="250" alt="stats graph"  />
   <img src="<https://github-readme-stats.vercel.app/api/top_lang?username=Ashishsharma-12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ashish-sharma-rampati" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/ashish-sharma-rampati?trk=profile-badge">Ashish Sharma</a></div>
 </div>
 
 ###
